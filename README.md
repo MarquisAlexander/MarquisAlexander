@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi people 👋
+
+- My name is Marquis and I´m 19 years old
+- 💙 I´m love with javascript
+- 🌱 currently studying ReactJS, NodeJS and React Native 
+- 😄 Also UI DESIGNER
 
 <!--
 **MarquisAlexander/MarquisAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
