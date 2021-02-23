@@ -1,6 +1,6 @@
 ### Hi people 👋
 
-- My name is Marquis and I´m 19 years old
+- My name is Marquis and I´m 20 years old
 - 💙 I´m love with javascript
 - 🌱 currently studying ReactJS, NodeJS and React Native 
 - 😄 Also UI DESIGNER
