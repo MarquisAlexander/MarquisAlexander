@@ -1,6 +1,6 @@
 ### Hi people 👋
 
-- My name is Marquis and I´m 21 years old
+- My name is Marquis and I´m 22 years old
 - 💙 I´m love with javascript
 - 🌱 I'm currently a front-end developer - React Native | ReactJS.
 - 😄 Also nodeJS, UI DESIGNER, CS:GO and Minecraft
